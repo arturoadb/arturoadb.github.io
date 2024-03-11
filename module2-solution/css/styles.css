@@ -1,0 +1,15 @@
+.row {
+  width: 100%;
+}
+
+
+/*Media Large size*/
+
+@media (min-width:992px) {
+  .col-lg-4{
+    float: center;
+    border: 1px solid green;
+    .col-lg-4 {
+      width:33.3%}
+  }
+}
